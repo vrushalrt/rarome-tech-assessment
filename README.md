@@ -4,9 +4,9 @@
 
 1.  Clone the repository:
 
-> git clone \<repository-url\>
+> git clone https://github.com/vrushalrt/rarome-tech-assessment
 >
-> cd \<repository-name\>
+> cd frontend
 
 2.  Install dependencies:
 
@@ -26,9 +26,9 @@
 
 1.  Clone the repository:
 
-> git clone \<repository-url\>
+> git clone https://github.com/vrushalrt/rarome-tech-assessment
 >
-> cd \<repository-name\>
+> cd backend
 
 2.  Install dependencies:
 
