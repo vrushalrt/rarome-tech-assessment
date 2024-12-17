@@ -40,3 +40,5 @@
 
 4.  Test the service using:\
     https://127.0.0.1:8000/fetch-documents
+
+NOTE: A sample `.env` file is included for reference and to facilitate the smooth operation of the application.
