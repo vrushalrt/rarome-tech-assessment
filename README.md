@@ -22,6 +22,8 @@
 
 5.  Access the application in your browser at http://localhost:3000.
 
+![img.png](img.png)
+
 **Backend**
 
 1.  Clone the repository:
@@ -40,5 +42,7 @@
 
 4.  Test the service using:\
     https://127.0.0.1:8000/fetch-documents
+
+![img_1.png](img_1.png)
 
 NOTE: A sample `.env` file is included for reference and to facilitate the smooth operation of the application.
